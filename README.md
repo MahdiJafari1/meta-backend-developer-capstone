@@ -12,6 +12,11 @@ Building RESTful APIs using [Django Rest Framework](https://www.django-rest-fram
     </a>
 </p>
 
+
+# NOTE:
+> I created the project differently from the capstone guidance. This comes from best practices I have learned during my career as Python Developer.
+definitely you see differnce than the guided project, so please consider that my project complete the same goal with best practices.
+
 ## Steps to run the app
 
 ### 1. Install `pipenv`
